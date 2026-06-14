@@ -1,3 +1,4 @@
+
 # SCHEMA AWARE TEST DATA GENERATOR
 
 A production-style full-stack Streamlit application for analyzing SQL schemas, generating realistic synthetic datasets, validating referential integrity, and exporting CSV/SQL/ZIP packages.
